@@ -1,0 +1,5 @@
+hn_updates https://hacker-news.firebaseio.com/v0/updates.json?print=pretty
+weather_point https://api.weather.gov/points/39.7456,-97.0892
+bitcoin_data https://api.coinpaprika.com/v1/coins/btc-bitcoin
+binance_time https://api.binance.com/api/v3/time
+random_user https://randomuser.me/api/
